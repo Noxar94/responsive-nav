@@ -23,8 +23,6 @@
   margin: 0;
   background-color: rgba(110, 61, 4, 0.37);
   border-radius: 10px;
-  -webkit-transition: all 1s;
-  transition: all 1s;
 }
 .primary-nav a {
   text-decoration: none;
@@ -52,8 +50,6 @@
     padding: min(30vh, 10rem) 2em;
     -webkit-transform: translateX(0%);
             transform: translateX(0%);
-    -webkit-transition: all 1s;
-    transition: all 1s;
   }
   .toggle-icon div {
     background: rgb(255, 255, 255);
