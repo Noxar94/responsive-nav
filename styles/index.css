@@ -70,10 +70,6 @@
   .bar-center {
     margin: 3px 0;
   }
-  input[type=checkbox]:checked ~ .primary-nav {
-    -webkit-transform: translateX(0%);
-            transform: translateX(0%);
-  }
   input[type=checkbox]:checked ~ .toggle-icon > .bar-top {
     -webkit-transform: rotate(135deg);
             transform: rotate(135deg);
